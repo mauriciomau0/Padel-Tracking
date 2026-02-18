@@ -2,7 +2,7 @@
 
 Rastreamento automatizado de quatro atletas de padel a partir de vídeo de transmissão, projetando suas posições na quadra em um mapa tático de vista zenital (top-down) por meio de estimação de pose e homografia.
 
-[https://github.com/user-attachments/assets/PLACEHOLDER_VIDEO_ID](https://www.youtube.com/watch?v=fum6uSU7SPA&t=1s)
+Video Final: [https://github.com/user-attachments/assets/PLACEHOLDER_VIDEO_ID](https://www.youtube.com/watch?v=fum6uSU7SPA&t=1s)
 
 ## Problema
 
